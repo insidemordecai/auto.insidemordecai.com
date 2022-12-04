@@ -17,8 +17,11 @@ Formula 1 is a single seater form of open-wheeled racing and is considered the p
 By open-wheeled I mean the drivers are not in a closed space like a normal car but are exposed to the elements. The sport is very exclusive to just the few drivers and not many people get the chance to experience the cars. Lets get to the nitty-gritty.
 
 ![Image of a Mercedes F1 car during a race.](https://images.unsplash.com/photo-1532906619279-a4b7267faa66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80)
+<figcaption>
 
-Photo by [Carl Jorgensen](https://unsplash.com/@scamartist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/f1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Carl Jorgensen](https://unsplash.com/@scamartist) on [Unsplash](https://unsplash.com/photos/Bx-dKrVq-oM)
+
+</figcaption>
 
 To start things off, I have section off things for easier reading.
 

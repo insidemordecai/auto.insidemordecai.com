@@ -29,9 +29,11 @@ After Austria and Styria, Mercedes were set to finally bring an upgrade to their
 
 Hungary came and Bottas chose to switch from F1 to Bowling taking out a couple of cars by Turn 1. Max dropped back with a damaged car and Lewis somehow found himself in last place after he was the only car on the grid for the race restart. He charged on until he got to Alonso whose herculean defence skills for about 10 laps cost Hamilton some time. Ocon won thanks to avoiding the earlier crash, defending against Vettel who later got disqualified after the race and crucially Alonso's defence. Lewis got P2 with Max down in P9.
 
-![](https://drivetalkscar.files.wordpress.com/2021/12/alexandre-brondino-vh82iwllcr8-unsplash.jpg?w=1024)
+![Alpha Tauri up at Radillon in Spa-Francochamps](img/at-spa-ab-unsplash.jpg)
+<figcaption>
 
 Credit: [Alexandre Brondino](https://unsplash.com/@brondia)
+</figcaption>
 
 Spa Francorchamps gave to us the shortest race in F1 history where Max’s pole gave him the win and Lewis took third place but the star of the weekend was George Russell. Lando, too, would have been right up there were it not for a red flag that was a crash too late.
 
@@ -43,9 +45,11 @@ Another Sprint weekend was upon us in the shape of the Monza circuit. Hamilton w
 
 Verstappen was deemed to be at fault and he got a grid drop for the next race. With that in mind, Red Bull opted to change his engine and start from the back, Lando had a thrilling battle with the 7-time world champ but sadly lost his maiden win by not pitting for wet weather tyres. Lewis won and somehow Max was on the podium. 
 
-![](https://drivetalkscar.files.wordpress.com/2021/12/lewisandperez-turkeygp.jpg?w=1024)
+![Lewis Hamilton and Sergio Perez battle in Turkey 2021](feature.jpg)
+<figcaption>
 
 Credit: [Shem Maore](https://twitter.com/MaoreShem)
+</figcaption>
 
 Lewis and Mercedes cocked up their strategy in Turkey while Red Bull and Max dominated the US Grand Prix which has always been in favour of Mercedes in the past. The high altitude of Mexico yet again allowed Max to win in a commanding style with Lewis defending against Perez for second place. 
 
@@ -57,7 +61,7 @@ Saudi Arabia was atrocious in track safety and how the FIA (with Michael Masi) c
 
 Before the final race, it was evident Max has been consistent all through the year while Lewis has always managed to climb back. It seemed we were back to the first race with the tie and it was going to be the winner takes it all in Abu Dhabi.
 
-![](https://drivetalkscar.files.wordpress.com/2021/12/abudhabigp-podium.jpeg?w=1024)
+![2021 Abu Dhabi GP Podium with Max on the top step and Lewis on P2 step](img/2021-abudhabigp-podium.jpeg)
 
 Max threw the first punch by taking pole from Lewis who rather looked very spirited for someone who had lost pole. The final "It's lights out and away we go" and Lewis immediately took the lead, Max tried to get through while Hamilton had to resort to using the runoff. In the lead, he created a good gap, pitted to mirror Red Bull's strategy and Perez defended beautifully to get Max closer to Lewis. Red Bull changed strategy and pitted with a few laps to go. It all seemed like Max would not reduce the gap any further until Nicholas Latifi binned it in the hotel section. Max pitted once again under the safety car and cue in the controversy. Race Control notified that lapped car would not overtake, quickly changed on that, just the five lapped cars between Lewis and Max were let through and quickly the safety car period was ended. One more lap of racing to define it all and Lewis tried his best but Max with the fresher tyres overtook him to win the 2021 World Drivers Championship.
 

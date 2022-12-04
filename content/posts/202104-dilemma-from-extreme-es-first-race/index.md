@@ -14,9 +14,8 @@ Along with this excitement from that, came names like Lewis Hamilton, Nico Rosbe
 
 Soon questions about the race format, "the gimmicks" (Gridplay - similar to Formula E's fanboost where fans vote to give their favourite driver extra power for a certain time, this makes it seem like a popularity contest) and other criticisms arose.
 
-![](https://drivetalkscar.files.wordpress.com/2021/04/odyssey21.jpg?w=1024)
-
-Odyssey 21 during testing
+![Odyssey 21 offroad](img/odyssey21.jpg)
+<figcaption>Odyssey 21 during testing</figcaption>
 
 Saturday, 3rd April came and we were pumped for the start of the inaugural season of XE. Being the first race weekend, the Qualifying run order was set randomly and the gender-balanced team of drivers set out to fight it out and get a decent lap time on the board, to say the least.
 

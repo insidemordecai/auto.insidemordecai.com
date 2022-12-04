@@ -7,7 +7,6 @@ tags: [F1]
 draft: false
 series: [F1 For Beginners]
 series_order: 2
-summary: "the quick brown"
 ---
 
 If you haven't read Part 1 then I'd advice you head back to it. Let's continue where we left off.
@@ -18,38 +17,36 @@ If you haven't read Part 1 then I'd advice you head back to it. Let's continue w
 
 1.  The obvious, no crashing into another driver, no corner cutting, no going backwards and any other you can probably think of.
 2.  No illegal blocking of another driver, when defending you are permitted to move just once. You can't zig-zag around.
-3.  A driver must have at least one pit stop
-4.  Slow down to the speed limit (80kph for most tracks) in the pit lane
+3.  A driver must have at least one pit stop.
+4.  Slow down to the speed limit in the pit lane (80kph for most tracks).
 5.  During a dry race, a driver must use two different tyre compounds (more on that later)
 
-Those are the common ones but the commentators will fill you in when something happens. When a crash or something happens that requires marshals or a tractor on track then a safety car (SC) or a virtual safety car (VSC) can be called out. For the SC, the drivers should follow behind the car, currently a Mercedes AMG GTR, and not overtake (unless told to) whereas for the VSC, the driver stick to a speed limit and lap time effectively this maintains the order and gap between the drivers.
+Those are the common ones but the commentators will fill you in when something happens. When a crash or something happens that requires marshals or a tractor on track then a safety car (SC) or a virtual safety car (VSC) can be called out. For the SC, the drivers should follow behind the car and not overtake (unless told to) whereas for the VSC, the drivers follow a set lap time effectively this maintains the order and gap between the drivers.
 
 ## Tyre Compounds
+![Pirelli F1 Tyres](img/pirelli-f1-tyres.png)
+<figcaption>
 
-[Click here for F1 YouTube video showcasing the tyre compounds as from 2019](https://youtu.be/E1LQ5REb288)
+Source: [Pirreli](https://www.pirelli.com/tires/en-us/motorsport/f1/tires)
+</figcaption>
+
+[Click here for video showcasing the tyre compounds (and naming) as from 2019](https://youtu.be/E1LQ5REb288)
 
 There are main 2 types of tyres: dry (slicks) and wet tyres (grooved). For dry tyres there are 3 compounds:
 
 *   Soft (red walled) - the stickiest compound thus the fastest but does not last long
-*   Medium (yellow walled) - slower than softs but lasts longer
+*   Medium (yellow walled) - middle of the road
 *   Hard (white walled) - slowest compound but lasts longest.
 
 As a rule, if a driver starts the race on softs, during their mandated pitstop they should change to the medium or hard compound. This is only applicable during a completely dry race so if it rain this is disregarded.
-
-![](https://drivetalkscar.files.wordpress.com/2020/07/green-4505508953587.png?w=457)
-
-![](https://drivetalkscar.files.wordpress.com/2020/07/blue-4505508953865.png?w=457)
-
-Wet tyres. Source: [Pirreli](https://www.pirelli.com/tires/en-us/motorsport/f1/tires)
 
 For wet tyres there are 2 compounds:
 
 *   Intermediates/Inters (green walled) - when there are a few showers of rain
 *   Full wets/ Extreme (blue walled) - when it's really pouring on track. This tyre requires more water to cool it. The 2019 extremes cleared 65 litres of water per second at 300kph.
 
-![Chequered flag used in racing events to mark the end of a session](https://drivetalkscar.files.wordpress.com/2020/07/chequered-flag.png?w=1024)
-
-Chequered Flag
+![Chequered flag used in racing events to mark the end of a session](img/chequered-flag.png)
+<figcaption>Chequered Flag</figcaption>
 
 ## Flags
 
@@ -71,30 +68,29 @@ Another type of penalty is a grid penalty which can be issued post or pre-race d
 
 Other penalties exist such as engine penalties and many more. The commentators will definitely fill you in.
 
-![](https://drivetalkscar.files.wordpress.com/2020/07/flat-spot.jpg?w=900)
-
-![](https://drivetalkscar.files.wordpress.com/2020/07/halo.jpg?w=1024)
-
-![](https://drivetalkscar.files.wordpress.com/2020/07/run-off.jpg?w=512)
-
-![](https://drivetalkscar.files.wordpress.com/2020/07/mclaren-with-drs-1.jpg?w=1024)
-
-Explained in Glossary. Credit: Motorsport Images, [CAR magazine](https://car-images.bauersecure.com/pagefiles/74505/formula1_halo_01.jpg) and [Race Fans](https://jackbyrne77.wordpress.com/2014/10/21/how-to-address-the-declining-popularity-of-formula-1/)
+Explained in Glossary. Credit: Motorsport Images
 
 ## Glossary
 
-*   DRS - Drag Reduction System - the rear wing opens up allowing air to go through effectively reducing drag and giving the car a sort of "boost". _(As pictured in the papaya McLaren)_
+*   DRS - Drag Reduction System - the rear wing opens up allowing air to go through effectively reducing drag and giving the car a sort of "boost".
+![McLaren F1 car with DRS Open](img/mclaren-with-drs.jpg)
+    <figcaption>Source: Motorsport Images</figcaption>
 *   DNF - Did Not Finish - where a driver retires from a race or crashes out
 *   DNS - Did Not Start
-*   DSQ - Disqualified
+*   DSQ or DQ - Disqualified
 *   "Box this lap" - this is heard when a driver's race engineer wants the driver to pit
 *   "Box opposite to" someone - this is heard when the team tells their driver to watch out on another driver, if the other driver pits they do not pit and vice versa
-*   Flat spot - this is a term used when during braking a driver locks up their tyre and it rubs on the track on one part creating a part where the tyre is flat. That part continues to rub down during every braking resulting in vibrations and slower lap times. _(Pictured above)._
-*   Halo - the half ring above a driver's head. It serves to protect them. It was implemented in 2018 to improve F1 safety. _(The dark ring on the red Ferrari pictured above)_
-*   Livery - the aesthetic design of the car in terms of colour, patterns, sponsors among others.
-*   Double header - two races that are spaced one week apart. Triple header is three races.
-*   Run-off area - space in corners where a driver can escape to if they can't take a corner. _(pictured above)_
-*   Grid - the place where cars line up to start a race
+*   Flat spot - this is a term used when during braking a driver locks up their tyre and it rubs on the track on one part creating a part where the tyre is flat. That part continues to rub down during every braking resulting in vibrations and slower lap times.
+![F1 tyre with a flat spot](img/flat-spot.jpg)
+*   Halo - the half ring above a driver's head. It serves to protect them.
+![Halo on a Ferrari F1 car](img/halo.jpg)
+    <figcaption>
+    
+    Source: [CAR magazine](https://car-images.bauersecure.com/pagefiles/74505/formula1_halo_01.jpg)
+    </figcaption>
+*   Livery - the aesthetic design of the car in terms of colour, patterns, sponsors etc.
+*   Double header - two races spaced one week apart.
+*   Grid - the place where cars line up to start a race.
 
 My work is done here, wait for the next race and I'm sure you'll understand most of the things mentioned or seen.
 

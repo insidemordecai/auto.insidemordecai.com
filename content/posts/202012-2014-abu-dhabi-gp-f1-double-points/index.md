@@ -6,13 +6,18 @@ categories: [Motorsport]
 tags: [F1]
 draft: false
 ---
-The month is November and as we head into the season finale, Mercedes have already secured the constructor's championship but the driver's title is still open. The points stand at 334-317 in favour of Hamilton against Rosberg. With the normal system, the 17-point-lead Hamilton has would mean he would need a minimum of 6th place finish to secure the title.
-
+The month is November and as we head into the season finale, Mercedes have already secured the constructor's championship but the driver's title is still open. The points stand at 334-317 in favour of Hamilton against Rosberg. 
 <!--more-->
 
-![](https://drivetalkscar.files.wordpress.com/2020/12/nick-fewings-vbruh-a53hw-unsplash-1.jpg?w=1024)
+With the normal system, the 17-point-lead Hamilton has would mean he would need a minimum of 6th place finish to secure the title.
+
+![Mercedes Front Wing](img/merc-front-wing-nf-unsplash.jpg)
+<figcaption>
 
 Credit: [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+</figcaption>
+
 
 The new double points system by [Bernie Ecclestone](https://en.wikipedia.org/wiki/Bernie_Ecclestone) meant that this advantage was reduced and Hamilton needed at least P2 in the race. Rosberg was pumped up for his chances and anything was possible with how Formula One can be brutal. Mercedes on the other hand felt they needed to ensure this title fight is equal and the cars are reliable.
 
