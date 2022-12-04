@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auto.insidemordecai.com/sitemap.xml
