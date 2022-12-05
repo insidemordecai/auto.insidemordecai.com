@@ -9,7 +9,7 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-EKK1X50BK7 "
 
 [permalinks]
   posts = '/:slug/'

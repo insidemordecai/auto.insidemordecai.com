@@ -34,6 +34,8 @@ defaultBackgroundImage = "img/background.jpg"
 
 [article]
   showDate = true
+  showViews = false
+  showLikes = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
@@ -60,6 +62,8 @@ defaultBackgroundImage = "img/background.jpg"
   layoutBackgroundBlur = true 
   layoutBackgroundHeaderSpace = true 
   showBreadcrumbs = false
+  showViews = false
+  showLikes = false
   showSummary = true
   showTableOfContents = false
   showCards = false
@@ -74,13 +78,13 @@ defaultBackgroundImage = "img/background.jpg"
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyDxG2OJ7Mx_a_r7-CjaxQYngS3l3LdCDyE"
+  authDomain = "auto-insidemordecai.firebaseapp.com"
+  projectId = "auto-insidemordecai"
+  storageBucket = "auto-insidemordecai.appspot.com"
+  messagingSenderId = "494489497764"
+  appId = "1:494489497764:web:cf0f549bd165a0d891b631"
+  measurementId = "G-EKK1X50BK7"
 
 [buymeacoffee]
   # identifier = ""
