@@ -39,7 +39,7 @@ Still haven't got it? Find me on Twitter. Till next time, share this around.
 
 ## Videos
 ### 2020 C8 Corvette
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Twyl_8HgrH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/Twyl_8HgrH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ferrari 458 Spider
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b-89pbIWmhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/b-89pbIWmhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

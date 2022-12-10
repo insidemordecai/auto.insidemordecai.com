@@ -23,7 +23,7 @@ Monaco swang in the favour of Red Bull with Lewis being off the pace the whole w
 
 We got to France and Red Bull took a page out of Mercedes’ Barcelona strategy masterclass earlier in the year giving Max the win with Perez in P3 while the Silver Arrows had to settle for P2 and P4 with Lewis and Bottas respectively. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ikWhv-1w5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4ikWhv-1w5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 After Austria and Styria, Mercedes were set to finally bring an upgrade to their car in Silverstone hoping for a good show in front of Hamilton’s home fans. This brought them ahead of Red Bull and from the first Sprint on Saturday, it was clear Lewis had the pace. In the race, Max had a good start but Lewis was right there and at Woodcote, he chose a wider line to get early on the throttle for the run to Corpse corner. This paid off and he was soon wheel to wheel with Max and that is when we had our first major collision. Max was sent into the barrier at an alarming speed but luckily he was okay. Lewis was predominantly at fault which got him a penalty that he served and hunted the other drivers to eventually win. The gap in the championship had been greatly reduced.
 
@@ -39,7 +39,7 @@ Spa Francorchamps gave to us the shortest race in F1 history where Max’s pole 
 
 The Dutch fans came in their masses to witness their hero Verstappen. With an impressive track that would sadly be difficult to overtake, qualifying would be crucial. Max drove himself to pole position and come to the end of the Grand Prix, the orange smoke that quite possibly covered the entire country would tell who had won it.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rbU_iUIay3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rbU_iUIay3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Another Sprint weekend was upon us in the shape of the Monza circuit. Hamilton would start the Grand Prix in fourth place but soon he was batting Max who later on had a slow pit stop. Hamilton made his stop from the lead and came out right ahead of Max before he found him on top of him - Red Bull gives you wings.
 
