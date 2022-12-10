@@ -27,52 +27,50 @@ To start things off, I have section off things for easier reading.
 
 ## Season Layout
 
-Since 2020 has been a drama-filled year so far and things have been disrupted, we shall use the 2019 calendar. The 2019 season had 21 races from 21 different countries across 5 continent thus it's called FIA Formula One World Championship.
+The season usually starts in March but before them we have a couple of weeks where teams get to unveil their new car and also their new livery design. That is followed by winter testing where the teams get to test their car before the first race.
 
-The season usually starts in March but there is winter testing in February where teams get to unveil their new car and also their new livery design. As of this year, the testing take 6 days where the teams get to test their car before the first race.
+Races are spaced two weeks apart but some are one week apart. Mid-season there is a summer break in August before the final half resume until either end of November or early December.
 
-The first race has traditionally been the Australian Grand Prix (GP) and that was the case last year. Races are spaced two weeks apart but some are one week apart. Mid-season there is a summer break in August before the final races resume in September. The season has ended in Abu Dhabi in in the last few years.
-
-After the season, drivers who have changed teams move to their new teams and have tests at the location of the last race and go for the break. The cycle resumes the next year.
+After the last race, there is post-season testing at the same location prior to going for the break. The cycle resumes the next year.
 
 ## Race Weekend Format
 
-The structure of the race weekend is as follows:
+The structure of a normal race weekend is as follows:
 
-*   Thur: Conference
-*   Fri: FP1 and FP2
+*   Thur: Team Principal's Press Conference
+*   Fri: Driver's Press Conference, FP1 and FP2
 *   Sat: FP3 and Qualifying
 *   Sun: Race
 
-Thursday is pretty straight forward. FP is Final Practice so on Friday there are two 1.5 hours practice sessions where the teams can set up their cars in preparation for the race. On Saturday, the third practice is in the morning and in the evening there is qualifying.
+FP is Free Practice, so on Friday there are two practice sessions where the teams and driver can set up their cars and get used to the track in preparation for the race. On Saturday, the team's finalise the setup tweaks in practice before qualifying.
 
-Quali determines where a driver starts from on race day. It takes 1 hour and is broken into 3 sections: Q1, Q2 and Q3. During quali the teams usually run their cars at max power. We start with Q1 where the drivers set some lap times before the time runs out and their best times are considered. 5 drivers are eliminated and 15 drivers proceed to Q2, same thing happens and finally 10 drivers proceed to Q3. The fastest driver takes Pole position and starts the race from the front of the grid with the rest following behind in the order of their times.
+Quali determines where a driver starts from on race day. It takes 1 hour and is broken into 3 timed sections: Q1, Q2 and Q3. Once the clock runs out in Q1, the bottom 5 drivers with the slowest lap times are eliminated and will start the race in that order, Q2 starts with 15 driver and ends with the top 10 who proceed for the final shootout in Q3. The driver who finishes with the best lap time come end of Q3 gets pole position and start from the front during the race.
 
-The race itself last averagely around 90 minutes with a maximum of 2 hours. Since the tracks differ in length, the number of laps is determined by the distance covered. The distance should sum up to about 300km. Podium ceremonies follow the race where champagnes are popped and drivers receive their trophies.
+The race itself last averagely around 90 minutes as drivers fight to stand on the podium after the race. Since the tracks differ in length, the number of laps is determined by the distance covered. The distance should sum up to about 305 km, except Monaco which is 260 km.
+
+For a sprint weekend, qualifying will be on Friday (where FP2 would be) and will set the starting order for the sprint. FP2 is on Saturday and the Sprint where quali would typically be. The sprint is 100 km long with no mandatory stop and set the starting order the race.
 
 ## Teams and Drivers
 
-Currently there are 10 teams/constructors with each having 2 driver that results in 20 drivers. There can be more than 10 teams as seen in the past. Teams that make their own engines are usually called the works team whereas those that buy from the works team are called the customer team. Below is a list of the 2020 teams and their engines.
+Currently there are 10 teams/constructors with each having two drivers. There are customer teams and works teams who manufacture their own engines. It is common for teams to change engine manufacturer once their contract ends. Below is a list of the 2022 teams and their engines. 
 
 *   Ferrari powered: Ferrari, Alfa Romeo and Haas
-*   Mercedes powered: Mercedes, Racing Point, Williams
-*   Honda powered: Red Bull, Alpha Tauri
-*   Renault powered: Renault, McLaren
+*   Mercedes powered: Mercedes, Aston Martin, Williams, McLaren
+*   Red Bull PowerTrains powered: Red Bull, Alpha Tauri
+*   Renault powered: Alpine
 
-For the current driver list or if you're from the future and the teams have changed, visit the [formula 1 website.](http://formula1.com)
+For the current driver list or if you're from the future and the teams have changed, [visit the Formula 1 website.](https://formula1.com)
 
-It is not uncommon for teams to change engine providers. Red Bull together with their sister team Alpha Tauri (previously named Toro Rosso) changed from Renault to Honda engines last year. McLaren are also set to go back to Mercedes engines as of 2021.
-
-There are two championships the World Drivers Championship(WDC) and the Constructors Championship. This is based on the points the drivers score over a whole season. For the constructors championship, the points of both drivers are added up to get the teams points.
+There are two championships the World Drivers Championship (WDC) and the Constructors Championship. This is based on the points the drivers score over the whole season. For the constructors championship, the points of both drivers are added up to get the teams points.
 
 The point systems is as follows, the winner receives 25 points, second place get 18 points followed by 15, 12, 10, 8, 6, 4, 2 and 1. So in short only the top 10 score points. Also, if any of those in top 10 get the fastest lap of the race, they get an extra point.
 
 ## Driver Market
 
-The drivers can change teams once their contract ends or if another teams buys them out before their contract ends. A driver can have a 1 year contract or a multi-year contract, if they wish they can renew their contracts once it ends.
+The drivers can change teams once their contract ends or if another teams buys them out before their contract ends. A driver can have a one-year contract or a multi-year contract.
 
-Typically by mid season most of the teams usually have announced their drivers for the next year if they are out of contract by the end of the season. Red Bull are in a position where they can move a driver from their main team to the sister team if they deem it so. Last year, Red Bull moved Pierre Gasly to Toro Rosso and Alex Albon to Red Bull who they later confirmed as their 2020 driver. That's all you need to know of the driver market.
+Most of the teams usually confirm their driver lineup for the next year by mid-season. Red Bull are in a position where they can move a driver from their main team to the sister team if they deem it so. That's all you need to know of the driver market.
 
-That's Part 1 done, [for the final Part click here.]({{< ref "/posts/202007-what-is-f1-part-2/index.md" >}}) It contains the remaining sections: rules and regulations, tyre compounds, penalties, flags and a glossary.
+That's Part 1 done, [click here for the final part.]({{< ref "/posts/202007-what-is-f1-part-2/index.md" >}}) It contains the remaining sections: rules and regulations, tyre compounds, penalties, flags and a glossary.
 
-Find me on Twitter , till next time, share this around to your friends and enjoy F1. Peace
+Till next time, find me on Twitter and enjoy F1. 
