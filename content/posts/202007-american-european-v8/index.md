@@ -21,18 +21,17 @@ The crankshaft is what is connected to the pistons via a connecting rod and the 
 For a cross-plane crank, the crank journals are on two planes with a 90° angle between them thus from a frontal view the planes form a cross. In a flat-plane crank, as the name suggests the journals are flat on one plane separated by a 180° angle.
 
 ![Images of the two types of engine crankshaft and its frontal view.](https://www.hotrod.com/uploads/sites/21/2020/03/011-flat-plane-cross-plane-crank-differences.jpg?interpolation=lanczos-none&fit=around|660:558?fit=around%7C875:492)
-
-RIGHT: CAD drawings of the different cranks LEFT: frontal view of crank with the cylinder an end fires
+<figcaption>RIGHT: CAD drawings of the different cranks LEFT: frontal view of crank with the cylinder that fires. </figcaption>
 
 So in a cross-plane crank, for every 90° rotation a cylinder fires and for a flat-plane crank, a cylinder fires after every 180° rotation.
 
-When you observe a single bank of an cross-plane crank, the firing order is uneven in spacing whereas that of a flat-plane crank is even.
+Picture a V8 with its two banks and cylinders numbered from 1 to 8, take one bank to have the even numbers and the other have the odd numbers. With that in mind, the firing order of the C8 Corvette is 1-8-7-2-6-5-4-3 and as you can see there are two even numbers (2-6) following each other meaning at some point two cylinders in one bank of the engine fire consecutively thus the firing order is uneven. This means the exhaust gases leaving the engine are also uneven resulting in a pulse that produces the rumble we know. 
 
-Picture a V8 with its 2 banks and cylinders numbered from 1 to 8, take 1 bank to have the even numbers and the other have the odd numbers. With that in mind, the firing order of the C8 Corvette is 1-8-7-2-6-5-4-3 and as you can see there are two even numbers following each other meaning at some point two cylinders in one bank of the engine fire consecutively instead of alternating to the other bank thus the firing order is uneven. The uneven firing order means the exhaust gases leaving the engine are also uneven resulting in a pulse that produces the rumble we know. In European V8s, the firing order is even i.e. 1-2-3-4-5-6-7-8 thus the exhaust gases are even which is effective in terms of the scavenging effect (explanation for another day). Due to the less resistance as an effect of even exhaust gases, the engine with flat-plane crank can rev to higher RPMs.
+In flat-plane crank V8s, the firing order alternates between the two banks thus the exhaust gases are even which is effective in terms of the scavenging effect (explanation for another day). Due to the less resistance as an effect of even exhaust gases, the engine with flat-plane crank can rev to higher RPMs.
 
-As we wrap it up, this is not to say that some American V8s don't have flat-plane cranks or European V8s don't cross-plane cranks. It's just that traditionally cross-plane crank is more common in V8s whereas flat-plane crank is not very common but used predominantly and almost exclusively by European manufacturers.
+As we wrap it up, this is not to say that some American V8s don't have flat-plane cranks or vice versa. It's just that traditionally cross-plane crank is more common in American V8s whereas flat-plane is used predominantly and almost exclusively by European manufacturers.
 
-Some American V8s that use the flat-plane crank include: the Ford Mustang Shelby GT350 (it can rev to 8200 RPM compared to 7000 RPM of the standard Mustang GT) and rumours have it that a different model of the C8 Corvette will have it as well. An example of a European V8 that uses the cross-plane crank is the Mercedes-AMG M156 6.2-liter V8 from the legendary SLS AMG.
+The Ford Mustang Shelby GT350 uses a flat-plane crank and it can rev to 8200 RPM compared to 7000 RPM of the standard Mustang GT. Mercedes-AMG M156 6.2-liter V8 from the legendary SLS AMG uses a cross-plane crank.
 
 Each type of crank has their benefits and drawbacks but when it comes to engines its a matter of showing your engineering muscles and reducing the drawbacks.
 
