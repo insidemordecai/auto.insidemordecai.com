@@ -14,6 +14,9 @@ googleAnalytics = "G-EKK1X50BK7"
 [permalinks]
   posts = '/:slug/'
 
+[imaging]
+  anchor = 'Center'
+
 [taxonomies]
   tag = "tags"
   category = "categories"
