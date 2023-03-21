@@ -83,13 +83,13 @@ smartTOCHideUnfocusedChildren = false
   showTermCount = true
 
 [firebase]
-  apiKey = "AIzaSyDxG2OJ7Mx_a_r7-CjaxQYngS3l3LdCDyE"
-  authDomain = "auto-insidemordecai.firebaseapp.com"
-  projectId = "auto-insidemordecai"
-  storageBucket = "auto-insidemordecai.appspot.com"
-  messagingSenderId = "494489497764"
-  appId = "1:494489497764:web:cf0f549bd165a0d891b631"
-  measurementId = "G-EKK1X50BK7"
+  # apiKey = "AIzaSyDxG2OJ7Mx_a_r7-CjaxQYngS3l3LdCDyE"
+  # authDomain = "auto-insidemordecai.firebaseapp.com"
+  # projectId = "auto-insidemordecai"
+  # storageBucket = "auto-insidemordecai.appspot.com"
+  # messagingSenderId = "494489497764"
+  # appId = "1:494489497764:web:cf0f549bd165a0d891b631"
+  # measurementId = "G-EKK1X50BK7"
 
 [buymeacoffee]
   # identifier = ""
