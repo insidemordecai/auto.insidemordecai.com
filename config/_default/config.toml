@@ -9,6 +9,8 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
+enableEmoji = true
+
 # googleAnalytics = "G-EKK1X50BK7"
 
 [permalinks]
