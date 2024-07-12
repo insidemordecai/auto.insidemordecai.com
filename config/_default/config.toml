@@ -14,7 +14,7 @@ enableEmoji = true
 # googleAnalytics = "G-EKK1X50BK7"
 
 [permalinks]
-  posts = '/:slug/'
+  posts = '/:slug/' # for cleaner links
 
 [imaging]
   anchor = 'Center'

@@ -17,6 +17,13 @@
   weight = 20
 
 [[main]]
-  pre = "twitter"
+  identifier = "twitter"
+  pre = "x-twitter"
   url = "https://twitter.com/insidemordecai"
   weight = 30
+
+[[main]]
+  identifier = "threads"
+  pre = "threads"
+  url = "https://threads.net/insidemordecai"
+  weight = 40 
