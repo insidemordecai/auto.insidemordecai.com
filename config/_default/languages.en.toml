@@ -10,19 +10,4 @@ title = "Drive Talks"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   description = "Car and Motorsport Blog | Drive Talks (by Mordecai Kipng'etich)"
-  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by Mordecai Kipng'etich"
-
-
-[author]
-  name = "Mordecai Kipng'etich"
-  email = "mk@insidemordecai.com"
-  image = "img/profile.png"
-  # headline = ""
-  bio = "Motorsport Enthusiast and Software Developer"
-  links = [
-    { email = "mailto:mk@insidemordecai.com" },
-    { x-twitter = "https://twitter.com/insidemordecai" },
-    { threads = "https://threads.net/insidemordecai" },
-    { github = "https://github.com/insidemordecai" },
-    { linkedin = "https://linkedin.com/in/insidemordecai" },
-  ]
+  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Mordecai Kipng'etich"

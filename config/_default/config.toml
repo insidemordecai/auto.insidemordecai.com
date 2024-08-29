@@ -13,6 +13,20 @@ enableEmoji = true
 
 # googleAnalytics = "G-EKK1X50BK7"
 
+[params.author]
+  name = "Mordecai Kipng'etich"
+  email = "mk@insidemordecai.com"
+  image = "img/profile.png"
+  # headline = ""
+  bio = "Motorsport Enthusiast and Software Developer"
+  links = [
+    { email = "mailto:mk@insidemordecai.com" },
+    { x-twitter = "https://twitter.com/insidemordecai" },
+    { threads = "https://threads.net/insidemordecai" },
+    { github = "https://github.com/insidemordecai" },
+    { linkedin = "https://linkedin.com/in/insidemordecai" },
+  ]
+
 [permalinks]
   posts = '/:slug/' # for cleaner links
 
