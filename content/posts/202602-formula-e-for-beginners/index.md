@@ -66,7 +66,7 @@ But few championships are as willing to try something new.
 
 That willingness has produced a mix of bold concepts — some controversial, some clever — and it’s part of what gives the series its distinct identity
 
-One of the craziest was [FanBoost](https://www.fiaformulae.com/en/championship/fanboost) where fans would vote for their favourite drivers and the three "most popular" drivers would get a temporary boost in power during the ePrix.
+One of the craziest was [FanBoost](https://www.fiaformulae.com/en/championship/fanboost) where fans would vote for their favourite drivers and the "most popular" drivers would get a temporary boost in power during the ePrix.
 This was cool, but rather unfair since the same few drivers would always get the vote. 
 So... FE did away with it. 
 Here's a video on some of [the most memorable FanBoost moments](https://youtu.be/b2bVO-UZWhI). 
