@@ -7,7 +7,7 @@ date: 2026-02-20T13:00:00+03:00
 categories: [External, Motorsport]
 tags: [Formula E]
 externalUrl: 
-draft: true
+draft: false
 ---
 
 You might have read after last week's F1 pre-season testing that [Max Verstappen referred to the new cars as 'Formula E on steroids'](https://www.espn.com/f1/story/_/id/47909219/max-verstappen-slams-new-f1-2026-cars-formula-e-steroids-red-bull). 
