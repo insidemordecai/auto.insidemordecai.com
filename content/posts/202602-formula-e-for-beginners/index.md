@@ -4,9 +4,8 @@ slug: formula-e-for-beginners
 summary: As F1 shifts further toward efficiency and deployment, comparisons to Formula E are inevitable. Beyond the memes, this is your crash course in what the electric championship really offers.
 description: As F1 shifts further toward efficiency and deployment, comparisons to Formula E are inevitable. Beyond the memes, this is your crash course in what the electric championship really offers.
 date: 2026-02-20T13:00:00+03:00
-categories: [External, Motorsport]
-tags: [Formula E]
-externalUrl: 
+categories: [Motorsport]
+tags: [Formula E, Formula 1]
 draft: false
 ---
 
